@@ -12,6 +12,8 @@ class MainClan:
      def zobrazitKlany(self):
          for klan in self.klany:
              print(klan)
+    
+    
 
 
 
